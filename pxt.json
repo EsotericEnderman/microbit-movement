@@ -18,5 +18,6 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
 }

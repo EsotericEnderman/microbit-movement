@@ -6,7 +6,9 @@
     },
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "MovementDirection.ts",
+        "MovingSquare.ts"
     ],
     "testFiles": [
         "test.ts"

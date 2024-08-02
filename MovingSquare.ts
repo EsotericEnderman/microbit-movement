@@ -1,6 +1,6 @@
 class MovingSquare {
 
-    private movementDirection: MovementDirection = MovementDirection.UP;
+    private movementDirection = MovementDirection.UP;
 
     private x: number;
     private y: number;

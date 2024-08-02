@@ -10,6 +10,9 @@ class MovingSquare {
         this.y = startingY;
 
         this.move(this.x, this.y);
+
+        input.onButtonPressed(Button.A, () => movingSquare.onButtonAPressed());
+        input.onButtonPressed(Button.B, () => movingSquare.onButtonBPressed());
     }
 
     private redraw() {

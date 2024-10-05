@@ -5,11 +5,11 @@
         "core": "*"
     },
     "files": [
-        "main.ts",
+        "src/main.ts",
         "README.md",
         "LICENSE.md",
-        "MovementDirection.ts",
-        "MovingSquare.ts"
+        "src/classes/MovementDirection.ts",
+        "src/classes/MovingSquare.ts"
     ],
     "targetVersions": {
         "target": "6.0.28",

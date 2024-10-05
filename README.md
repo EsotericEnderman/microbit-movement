@@ -1,5 +1,5 @@
 
-> Open this page at [https://slqmy.github.io/movement/](https://slqmy.github.io/movement/)
+> Open this page at [https://EsotericEnderman.github.io/movement/](https://EsotericEnderman.github.io/movement/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/slqmy/movement** and import
+* search for **https://github.com/EsotericEnderman/movement** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/slqmy/movement** and click import
+* paste **https://github.com/EsotericEnderman/movement** and click import
 
 #### Metadata (used for search, rendering)
 

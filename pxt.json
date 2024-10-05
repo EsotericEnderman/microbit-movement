@@ -1,6 +1,6 @@
 {
-    "name": "movement",
-    "description": "",
+    "name": "microbit-movement",
+    "description": "Moving square on a microbit.",
     "dependencies": {
         "core": "*"
     },

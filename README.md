@@ -2,7 +2,7 @@
 
 > Moving square on a microbit.
 
-> Open this page at [https://EsotericEnderman.github.io/movement/](https://EsotericEnderman.github.io/microbit-movement/)
+> Open this page at [https://EsotericEnderman.github.io/microbit-movement/](https://EsotericEnderman.github.io/microbit-movement/)
 
 ## Use as Extension
 
